@@ -1,0 +1,12 @@
+Protocol,Model,MAE,RMSE,R2
+A leave-one-month-out,Period mean,7.927,8.533,-0.177
+A leave-one-month-out,OLS,7.834,9.259,-0.385
+A leave-one-month-out,Ridge,7.676,9.088,-0.335
+A leave-one-month-out,Decision tree,10.932,12.346,-1.463
+A leave-one-month-out,k-NN,8.303,9.693,-0.518
+B rolling forecast,Persistence,6.542,7.912,-0.736
+B rolling forecast,Period mean,6.79,7.638,-0.618
+B rolling forecast,OLS,6.133,8.349,-0.934
+B rolling forecast,Ridge,5.016,6.461,-0.158
+B rolling forecast,Decision tree,6.183,7.108,-0.402
+B rolling forecast,k-NN,5.729,6.941,-0.336

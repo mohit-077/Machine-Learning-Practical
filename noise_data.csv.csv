@@ -1,0 +1,24 @@
+Date,"Limits in dB(A)
+Leq*",Day Time,,,"%
+Increase","Limits in dB(A)
+Leq*",Night Time,,,"%
+Increase",No. of Days
+,,Leq,Lmin,Lmax,,,Leq,Lmin,Lmax,,
+Apr-19,65,59.1,21.6,109.9,Within limit,55,56.4,49.9,73.6,2.50%,30 Days
+May-19,65,75.9,21.6,106.8,16.80%,55,74.8,51.4,78.3,36.00%,31 Days
+Jun-19,65,56.6,21.6,95.1,Within limit,55,59,38.2,92,7.30%,30 Days
+Jul-19,65,78.5,21.6,78.5,20.70%,55,62,55.4,80.3,12.70%,31 Days
+Aug-19,65,63,21.6,99,Within limit,55,62.7,39.6,86.5,14.00%,31 Days
+Sep-19,65,55.9,21.6,89.7,Within limit,55,55,22.9,91.4,Within limit,30 Days
+Oct-19,65,65.1,21.6,104.4,0.10%,55,64.2,49.4,87.7,16.70%,31 Days
+Nov-19,65,59.2,21.6,76.8,Within limit,55,60,48.9,75,9.10%,30 Days
+Dec-19,65,74.5,21.6,89.7,14.60%,55,74.4,59.3,87.1,35.20%,31 Days
+Jan-20,65,70.9,53.3,90.5,9.00%,55,70.5,46.8,93.9,28.20%,31 days
+Feb-20,65,75.6,58.7,92.9,16.30%,55,76.3,64.1,87.9,38.70%,29 days
+Mar-20,65,75.3,43.1,100.4,15.80%,55,74.3,53.2,98.1,35.00%,31 days
+Note:,,,,,,,,,,,
+1. Day time shall mean from 6.00 AM to 10.00 PM and Night time shall mean from 10.00PM to 6.00 AM,,,,,,,,,,,
+"2.      Silence zone is an area comprising not less than 100 meters around Hospitals, Educational Institutions, Courts, Religious places or any other which is declared as such by the competent authority.",,,,,,,,,,,
+3.       dB(A) Leq denotes the time weighted average of the level of sound decibels on scale ‘‘A” which is relatable to human hearing. ‘‘A” decibel is a unit in which noise is measured.,,,,,,,,,,,
+"4.      ‘‘A” in dB(A) Leq,  denotes the frequency weighting in the measurements of noise and corresponds to frequency response characteristics of the human ear.",,,,,,,,,,,
+5.      “Leq’’ it is energy mean of the noise level over a specific period. ,,,,,,,,,,,
